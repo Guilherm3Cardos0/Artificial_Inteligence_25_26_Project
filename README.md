@@ -18,7 +18,7 @@ This project was developed on Google Colab, which provides an online environment
 
 ### Installation
 1. Clone this repository or download the notebook file `.ipynb`.
-2. Open the notebook using Google Colab at [colab.research.google.com](https://colab.research.google.com/).
+2. Open the notebook `Project_Notebook.ipynb` using Google Colab at [colab.research.google.com](https://colab.research.google.com/).
 3. Upload the dataset file `survey lung cancer.csv` to the Colab environment using the upload button or mount your Google Drive.
 4. Ensure all required libraries are installed by running the first notebook cells. For example, the `lime` package is installed using: `!pip install lime`.
 
